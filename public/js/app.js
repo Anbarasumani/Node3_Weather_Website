@@ -1,4 +1,4 @@
-console.log('Clinet side javascript file is loaded!')
+console.log('Clinet side javascript file is loaded!.')
 
 
 // fetch('http://puzzle.mead.io/puzzle').then((response)=>{
